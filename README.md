@@ -39,7 +39,7 @@ AqlMind is an AI-powered web application that allows you to chat intelligently a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/aqlmind.git
+   git clone https://github.com/ahmedhassan456/AqlMind.git
    cd aqlmind
    ```
 
