@@ -1,0 +1,14 @@
+httpx
+click
+cssselect
+lxml
+camoufox
+browserforge
+tldextract
+playwright
+orjson
+w3lib
+langchain_google_genai
+fastapi
+uvicorn
+streamlit
