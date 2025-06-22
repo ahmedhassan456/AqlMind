@@ -131,5 +131,5 @@ streamlit run streamlit_app.py
 
 ## License 📄
 
-[MIT License](LICENSE) (add a LICENSE file if you haven't already)
+[MIT License](LICENSE)
 
